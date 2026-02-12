@@ -1,0 +1,7 @@
+{
+  "name": "Kratika's Birthday Celebration",
+  "description": "A magical, interactive birthday experience for Shinchan (Kratika) featuring memories, CA dreams, and a microphone-enabled cake cutting ceremony.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
